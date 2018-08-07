@@ -30,10 +30,12 @@ const PortfolioPage = (props, context) => {
               }
             `}
           </style>
-          {/* <PortfolioItem /> */}
-          {portfolioItems.map((item, i) => (
+          <PortfolioItem />
+          {/*
+            {portfolioItems.map((item, i) => (
             <PortfolioItem render={item.render} key={i} />
           ))}
+          */}
         </div>
       </div>
       <ScrollToPrevious pageSelector=".about-page" />
