@@ -51,13 +51,25 @@ const AboutPage = (props, context) => {
               <span className="highlight">Blokchain Application Development</span>.
             </p>
             <p>
-              Java, Spring, MongoDB, MySQL, Redis, React, Angular2, and Node.js are my main stacks.
+              <i>Java</i>,
+              <i>Spring</i>,
+              <i>Docker</i>,
+              <i>MongoDB</i>,
+              <i>MySQL</i>,
+              <i>Redis</i>,
+              <i>React</i>,
+              <i>Angular2</i>,
+              <i>Node.js</i>, and
+              <i>AWS</i> are my main stacks.
             </p>
             <p>
-              AWS, Docker, Elasticsearch, Logstash, Kibana, Nagios, Hadoop, Spark, Lucene, and Tensorflow are my favorite tools.
+              Elasticsearch, Logstash, Kibana, Nagios, Hadoop, Spark, Lucene, and Tensorflow are my favorite tools.
+            </p>
+            <p>
+              I love ping pong, basketball, badminton, bicycling, hiking and video games.
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
-              \ (•◡•) /
+              （￣▽￣）／
             </p>
           </div>
         </div>
