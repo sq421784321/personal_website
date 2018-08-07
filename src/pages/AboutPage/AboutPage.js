@@ -38,7 +38,7 @@ const AboutPage = (props, context) => {
               Besides, I stay close to the community and try to keep tabs with the pace at which the web is evolving.
             </p>
             <p>
-              "The faintest ink is better than the best memory." --- I also like to{' '}
+              <i>"The faintest ink is better than the best memory."</i> --- I also like to{' '}
               <span className="highlight">blog</span> what I learn. Please check out my{' '}
               <a target="_blank" rel="noopener noreferrer" href="https://mabuxi.gitbook.io/mabuxi/"><span className="highlight">Gitbook</span></a>.
             </p>
@@ -63,7 +63,15 @@ const AboutPage = (props, context) => {
               <i>AWS</i> are my main stacks.
             </p>
             <p>
-              Elasticsearch, Logstash, Kibana, Nagios, Hadoop, Spark, Lucene, and Tensorflow are my favorite tools.
+              <i>Elasticsearch</i>,{' '}
+              <i>Logstash</i>,{' '}
+              <i>Kibana</i>,{' '}
+              <i>Nagios</i>,{' '}
+              <i>Hadoop</i>,{' '}
+              <i>Spark</i>,{' '}
+              <i>Lucene</i>,{' '}
+              <i>Tensorflow</i>, and{' '}
+              <i>Geth</i> are my favorite tools.
             </p>
             <p>
               Programming is just a small part of my life. I love ping pong, basketball, badminton, bicycling, hiking and video games as well.
