@@ -25,27 +25,29 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              everything web.
+              My main language is{' '}
+              <span className="highlight">Java</span>, but Im also a big fan of{' '}
+              <span className="highlight">JavaScript</span> and{' '}
+              <span className="highlight">Python</span>.
             </p>
             <p>
-              When my dev senses kick-in I build presumably{' '}
-              <span className="highlight"> awesome stuff</span>. I stay close to
-              the community and try to keep tabs with the pace at which the web
-              is evolving. I also like to{' '}
-              <span className="highlight">blog</span> what I learn.
+              I like everything open-source. And I like to "open source" everything.
+              I never stop learning. When I am free, I will bury myself in cutting-edge technologies.
+              Besides, I stay close to the community and try to keep tabs with the pace at which the web is evolving.
             </p>
             <p>
-              I built this site <span className="highlight">from scratch</span>.
-              By scratch, I mean <i>absolutely from scratch</i>{' '}
-              <span className="highlight">
-                without any UI library/framework
-              </span>{' '}
-              (except React though) and had so much fun along the way.
+              "The faintest ink is better than the best memory." --- I also like to{' '}
+              <span className="highlight">blog</span> what I learn. Please check out my <a target="_blank" rel="noopener noreferrer" href="https://mabuxi.gitbook.io/mabuxi/">Gitbook</a>.
             </p>
             <p>
-              React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
-              AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
+              I have a broad range of hands-on experience including Web Application Development, Cloud Computing, Big Data Processing,
+              Machine Learning, and Blokchain Application Development.
+            </p>
+            <p>
+              Java, Spring, MongoDB, MySQL, Redis, React, Angular2, and Node.js are my main stacks.
+            </p>
+            <p>
+              AWS, Docker, Elasticsearch, Logstash, Kibana, Nagios, Hadoop, Spark, Lucene, and Tensorflow are my favorite tools.
             </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
