@@ -30,8 +30,8 @@ const PortfolioPage = (props, context) => {
               }
             `}
           </style>
-          <PortfolioItem />
           {/*
+          <PortfolioItem />
             {portfolioItems.map((item, i) => (
             <PortfolioItem render={item.render} key={i} />
           ))}
