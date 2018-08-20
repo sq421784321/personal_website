@@ -30,6 +30,7 @@ const PortfolioPage = (props, context) => {
               }
             `}
           </style>
+          <h2>Coming soon!</h2>
           {/*
           <PortfolioItem />
             {portfolioItems.map((item, i) => (
