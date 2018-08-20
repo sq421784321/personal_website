@@ -12,6 +12,7 @@ const SocialIcons = (props, context) => {
         <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Jason45225712" style={ { color: colorPrimary } }><i className="fab fa-twitter"></i></a>
         {/* <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/story/flexdinesh" style={ { color: colorPrimary } }><i className="fab fa-stack-overflow"></i></a> */}
         <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/quan-sun/" style={ { color: colorPrimary } }><i className="fab fa-linkedin"></i></a>
+        <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@haloblock" style={ { color: colorPrimary } }><i className="fab fa-medium"></i></a>
         { /*
         <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@flexdinesh" style={ { color: colorPrimary } }><i className="fab fa-medium"></i></a>
         <a className="devto" target="_blank" rel="noopener noreferrer" href="https://dev.to/flexdinesh">
